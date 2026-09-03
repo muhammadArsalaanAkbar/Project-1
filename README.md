@@ -1,5 +1,7 @@
 # Project 1 — In-Session Monitoring Loop (Concept 4)
 
+[![CI](https://github.com/muhammadArsalaanAkbar/Project-1/actions/workflows/ci.yml/badge.svg)](https://github.com/muhammadArsalaanAkbar/Project-1/actions/workflows/ci.yml)
+
 Demonstrates Concept 4 from the Harness Engineering crash course: using an
 in-session loop inside a Claude Code session to monitor a long-running
 background task to completion.
